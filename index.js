@@ -34,9 +34,9 @@ console.log("===== Jogo Classes de um Herói =====\n");
 let jogadorNome = readlineSync.question("Informe o seu nome: ");
 let jogadorIdade = readlineSync.question("Informe a sua idade: ");
 
-console.log("Tipos de herois: ");
+console.log("Classes de herois: ");
 tipoHeroi = ['mago', 'guerreiro', 'monge', 'ninja'],
-jogadorTipo = readlineSync.keyInSelect(tipoHeroi, "Informe o tipo: ");
+jogadorTipo = readlineSync.keyInSelect(tipoHeroi, "Escolha uma classe: ");
 
 // let jogadorTipo = readlineSync.question("Informe o tipo de heroi: ");
 

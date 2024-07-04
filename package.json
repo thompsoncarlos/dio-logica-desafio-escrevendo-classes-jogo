@@ -4,7 +4,8 @@
   "description": "Crie uma classe generica que represente um herói de uma aventura e que possua as seguintes propriedades:",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
   },
   "keywords": [],
   "author": "",

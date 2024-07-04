@@ -52,4 +52,4 @@ Ao final deve se exibir uma mensagem:
 - Classes e Objetos
   
  ## Exemplo de Resultado: 
-![Print Result Example](./src/assets/result.png)
+![Print Result Example](./result.png)
