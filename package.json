@@ -1,0 +1,15 @@
+{
+  "name": "dio-logica-desafio-escrevendo-classes-jogo",
+  "version": "1.0.0",
+  "description": "Crie uma classe generica que represente um herói de uma aventura e que possua as seguintes propriedades:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
